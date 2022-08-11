@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+body{
+    background:  #eeeeee;
+
+} 
+
+
+.Donaciones{
+    display: inline-block;
+    width: 20%;
+    margin-top: 5%;
+    width: 550px;
+    height: auto;
+    margin-left: 3%; 
+  
+
+}
+.Donaciones .title-donaciones{
+    
+    
+    color:rgb(3, 3, 3);
+    text-align: center;
+    font-size: 3.0rem;
+}
+.Donaciones .img-donaciones{
+    padding-top: 30px;
+    width: 50%;
+    height: auto;
+    padding-bottom: 50px;
+    margin-right: 90px;
+    
+}
+
+.Donaciones .par-donaciones{
+    color:rgb(3, 3, 3);
+    font-size: 1.3rem;
+    text-decoration: dashed;
+    justify-content: right;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+
+}
+
+
+.VOLUNTARIADOS{
+    display: inline-block;
+    width: 20%;
+    margin-top: 5%;
+    width: 550px;
+    height: auto;
+    margin-left: 3%; 
+  
+
+}
+.VOLUNTARIADOS .title-voluntariados{
+    width: 100%;
+    color:rgb(3, 3, 3);
+    text-align: center;
+    font-size: 3.0rem;
+
+}
+.VOLUNTARIADOS .img-voluntariados{
+    
+    padding-top: 30px;
+    width: 51%;
+    height: auto;
+    padding-bottom: 50px;
+    margin-right: 90px;
+
+}
+
+.VOLUNTARIADOS .par-voluntariados{
+    color:rgb(3, 3, 3);
+    font-size: 1.3rem;
+    text-decoration: dashed;
+    justify-content: right;
+    padding-right: 4%;
+    padding-left: 4%;
+    padding-bottom: 4%;
+}
+
+.COMVIVENCIAS{
+    display: inline-block;
+    width: 20%;
+    margin-top: 5%;
+    width: 550px;
+    height: auto;
+    margin-left: 3%; 
+
+
+
+}
+.COMVIVENCIAS .title-Convivencias{
+    color:rgb(3, 3, 3);
+    text-align: center;
+    font-size: 3.0rem;
+}
+.COMVIVENCIAS .img-convivencias{
+    padding-top: 30px;
+    width: 60%;
+    height: auto;
+    padding-bottom: 50px;
+    margin-right: 90px;
+}
+.COMVIVENCIAS .par-convivencias{
+    color:rgb(3, 3, 3);
+    font-size: 1.3rem;
+    text-decoration: dashed;
+    justify-content: right;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+}

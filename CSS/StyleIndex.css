@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+body{
+    background:  #eeeeee;
+
+} 
+.sep{
+    background-color: rgb(79, 23, 116);
+    width: auto;
+}
+.sep .title{
+    text-align: center;
+    width: auto;
+    font-size: 5.6rem;
+    color:antiquewhite
+}
